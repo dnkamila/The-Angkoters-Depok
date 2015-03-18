@@ -1,4 +1,5 @@
 - twitter api
-- lempar apps => gmail
+- lempar apps
 - json
-- database device
+- database in device
+- gmaps
