@@ -1,0 +1,16 @@
+{"subrute" : [
+	{
+		"id":"",
+		"kode_trayek":"",
+		"awal" : {
+			"jalan":"",
+			"lat":"",
+			"long":""
+		},
+		"tujuan" : {
+			"jalan":"",
+			"lat":"",
+			"long":""
+		}
+	}
+]}

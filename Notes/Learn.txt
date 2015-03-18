@@ -1,0 +1,4 @@
+- twitter api
+- lempar apps => gmail
+- json
+- database device
