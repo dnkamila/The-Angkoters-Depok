@@ -1,0 +1,54 @@
+Tugas Implementasi Iterasi 1 (18 Maret - 10 April 2015)
+
+//==============================================//
+FITUR-FITUR
+1.	Mencari rute di dalam wilayah Depok
+2.	Mencari rute keluar wilayah Depok 
+3.	Menampilkan rute yang dilewati oleh suatu angkot pada map
+4.	Menampilkan detail / rincian angkot
+5.	Mencari angkot yang tersedia di lokasi pengguna 
+6.	Memeroleh news update perangkotan Depok
+7.	Menyampaikan keluhan ke Dinas Perhubungan Angkot Depok
+8.	Favorite perjalanan angkot pengguna
+9.	Menghitung jarak perjalanan angkot yang dinaiki pengguna 
+10.	Menghitung biaya perjalanan angkot yang akan ditempuh
+11.	Help/User guide aplikasi untuk pengguna
+12.	Menunjukkan public place yang dilewati angkot yang sedang dinaiki pengguna pada map
+13.	Menunjukkan tempat makan yang dilewati angkot yang sedang dinaiki pengguna pada map
+14.	Melakukan setting tema aplikasi
+15.	Memberikan feedback aplikasi kepada developer
+
+//==============================================//
+USE CASE 
+1.  Cari Rute dengan Input Field
+2.	Cari Rute Pick Location on Map
+3.	Melihat Jarak Perjalanan
+4.	Melihat Biaya Perjalanan
+5.	Menyimpan Rute ke Favorite
+6.	Melihat Favorite
+7.	Memperbarui Favorite
+8.	Menghapus Rute Favorite
+9.	Melihat Tempat Makan yang Dilewati Angkot
+10.	Melihat Tempat Umum yang Dilewati Angkot
+11.	Nearby Angkot
+12.	Melihat Detail Angkot
+13.	Melihat Berita Terkini (News Feed)
+14.	Memberikan Keluhan
+15.	Login dengan Akun Twitter
+16.	Melakukan Pengaturan Bahasa
+17.	Mengatur Tema Aplikasi
+18.	Menghapus Akun / Logout
+19.	Memberikan Feedback aplikasi
+20.	Melihat Help / User Guide
+21.	Share Aplikasi
+22.	Melihat Profil Pengembang Aplikasi (About Us)
+
+//==============================================//
+ITERASI 1
+Fitur yang diimplementasikan : 1-10
+Use case yang diimplementasikan : 1-8, 11-15
+Batas Waktu selesai Iterasi 1 + UAT(BERSIH) : 10 April 2015 !
+
+
+
+

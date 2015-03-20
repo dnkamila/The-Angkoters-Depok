@@ -1,0 +1,46 @@
+Daftar Job desc per Anggota PPL A01
+
+KAMILA DINI N
+-------------------------------
+1.  Cari Rute dengan Input Field  (PAIR PROGRAMMING)
+2.	Cari Rute Pick Location on Map (PAIR PROGRAMMING)
+3.	Melihat Jarak Perjalanan (PAIR PROGRAMMING)
+4.	Melihat Biaya Perjalanan (PAIR PROGRAMMING)
+5.	Nearby Angkot (PAIR PROGRAMMING)
+-------------------------------
+
+TYAS KUSUMA H
+-------------------------------
+1.  Cari Rute dengan Input Field (PAIR PROGRAMMING)
+2.	Cari Rute Pick Location on Map (PAIR PROGRAMMING)
+3.	Melihat Jarak Perjalanan (PAIR PROGRAMMING)
+4.	Melihat Biaya Perjalanan (PAIR PROGRAMMING)
+5.	Nearby Angkot (PAIR PROGRAMMING)
+6. 	bikin General Template (Action bar sama Sliding menu)
+-------------------------------
+
+DINDA SUSANTI
+-------------------------------
+1. 	Isi File Json (angkot.json, subrute.json) yang ada di Github
+2.	Melihat Detail Angkot 
+3.	Melihat Berita Terkini (News Feed) (PAIR PROGRAMMING)
+4.	Memberikan Keluhan (PAIR PROGRAMMING)
+5.	Login dengan Akun Twitter (PAIR PROGRAMMING)
+-------------------------------
+
+ANDIS MUHAMMAD S
+-------------------------------
+1.	Menyimpan Rute ke Favorite (PAIR PROGRAMMING)
+2.	Melihat Favorite (PAIR PROGRAMMING)
+3.	Memperbarui Favorite (PAIR PROGRAMMING)
+4.	Menghapus Rute Favorite (PAIR PROGRAMMING)
+-------------------------------
+
+DION GERALDO
+-------------------------------
+1.	Menyimpan Rute ke Favorite (PAIR PROGRAMMING)
+2.	Melihat Favorite (PAIR PROGRAMMING)
+3.	Memperbarui Favorite (PAIR PROGRAMMING)
+4.	Menghapus Rute Favorite (PAIR PROGRAMMING)
+-------------------------------
+
