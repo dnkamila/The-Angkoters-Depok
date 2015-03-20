@@ -1,5 +1,8 @@
-- twitter api
-- lempar apps
-- json
-- database in device
-- gmaps
+Github
+	- https://github.com/GSoft-SharePoint/Dynamite/wiki/Getting-started-with-SourceTree,-Git-and-git-flow
+
+Twitter
+	- https://dev.twitter.com/twitter-kit/android
+
+GMaps
+	- https://developers.google.com/maps/documentation/android/
