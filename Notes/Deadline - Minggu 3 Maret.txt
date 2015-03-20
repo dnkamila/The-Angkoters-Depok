@@ -1,0 +1,23 @@
+Mila
+	- Github
+	- Marker
+	- Gambar path
+	- Ambil LatLong
+
+Dion
+	- Github
+	- Icon
+	- Database di device
+
+Dinda
+	- Github
+	- JSON
+	- Twitter
+
+Andis
+	- Github
+	- Database di device
+
+Tyas
+	- Github
+	- Template
