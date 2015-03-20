@@ -41,7 +41,6 @@ public class MainActivity extends Activity implements OnMapReadyCallback {
                                     .title("Marker")
                                     .draggable(true)
                                     .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE))
-                                    .alpha(0.5f)
-                                    .flat(true));
+                                    .alpha(0.5f));
     }
 }
