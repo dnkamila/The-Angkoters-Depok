@@ -6,3 +6,5 @@ Twitter
 
 GMaps
 	- https://developers.google.com/maps/documentation/android/
+	- https://developers.google.com/maps/documentation/geocoding/
+	- https://developers.google.com/maps/documentation/directions/
