@@ -45,7 +45,7 @@ public class MainActivity extends FragmentActivity implements GoogleMap.OnMapCli
         googleMap = mapFragment.getMap();
 
         googleMap.setOnMapClickListener(this);
-        
+
         Button btn_nearby = (Button) findViewById(R.id.btn_nearby);
         btn_nearby.setOnClickListener(this);
     }
@@ -121,7 +121,7 @@ public class MainActivity extends FragmentActivity implements GoogleMap.OnMapCli
 
         @Override
         protected void onPostExecute(String result) {
-            /*try {
+            try {
                 JSONArray jsonArray = new JSONArray(result);
                 String res = "";
                 for(int i = 0; i < jsonArray.length(); i++) {
@@ -135,7 +135,7 @@ public class MainActivity extends FragmentActivity implements GoogleMap.OnMapCli
             } catch (Exception e) {
                 // TODO: handle exception
                 Log.e("log_tag", "Error parsing data "+e.toString());
-            }*/
+            }
             Toast.makeText(context, "Finsih PHP", Toast.LENGTH_SHORT).show();
         }
     }

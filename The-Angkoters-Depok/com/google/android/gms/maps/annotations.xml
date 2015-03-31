@@ -1,5 +1,0 @@
-<root>
-    <item name='com.google.android.gms.maps.GoogleMap'>
-        <annotation name='java.lang.annotation.Deprecated' />
-    </item>
-</root>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="ColorPrimary">#00a882</color>
-    <color name="ColorPrimaryDark">#008768</color>
-    <color name="Colorlist">#FFFFFF</color>
-    <color name="Colorlistpress">#e6e5e5</color>
-    <color name="Colorlistpresslight">#0af5c0</color>
-</resources>
-
