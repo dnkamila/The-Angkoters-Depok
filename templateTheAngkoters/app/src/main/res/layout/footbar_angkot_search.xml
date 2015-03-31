@@ -41,9 +41,6 @@
                 android:src="@drawable/star_dark"
                 android:layout_marginLeft="104dp"
                 />
-        </LinearLayout>
-
     </android.support.v7.widget.Toolbar>
-
 
 </LinearLayout>

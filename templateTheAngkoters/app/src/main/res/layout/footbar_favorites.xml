@@ -18,32 +18,18 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/angkot_logo"
-                android:layout_gravity="left"
+                android:src="@drawable/edit"
+                android:layout_marginLeft="112dp"
                 />
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/cutlery_dark"
+                android:src="@drawable/ic_action_discard"
                 android:layout_marginLeft="16dp"
-                />
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/buildings_dark"
-                android:layout_marginLeft="16dp"
-
-                />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/star_dark"
-                android:layout_marginLeft="104dp"
+                android:layout_gravity="center"
                 />
         </LinearLayout>
 
     </android.support.v7.widget.Toolbar>
-
 
 </LinearLayout>
