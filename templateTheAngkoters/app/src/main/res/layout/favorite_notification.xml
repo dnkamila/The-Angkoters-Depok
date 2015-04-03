@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:layout_marginLeft="10dp"
+        android:background="#F5F5F5"
+        android:elevation="2dp"
+        android:orientation="vertical">
+
+        <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Add Your Favorites"
+        android:textColor="#ffffff"
+        android:background="#009688"
+        android:elevation="2dp"/>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/topName">
+
+            <TextView
+            android:id="@+id/nameLable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:textStyle="normal"
+            android:text="Name"/>
+
+            <EditText
+            android:id="@+id/name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="30dp">
+
+            <TextView
+            android:id="@+id/descLable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:textStyle="normal"
+            android:text="Descriptions"/>
+            <EditText
+            android:id="@+id/desc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+            <Button
+            android:id="@+id/btncancel"
+            android:layout_width="170dp"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="2dp"
+            android:text="Cancel"
+            android:textColor="#757575"
+            android:textStyle="normal"
+            android:textSize="16sp"
+            android:enabled="false"
+            android:clickable="false"
+            android:lines="1"
+            />
+
+            <Button
+            android:id="@+id/btnsave"
+            android:layout_width="170dp"
+            android:layout_height="fill_parent"
+            android:text="save"
+            android:textColor="#757575"
+            android:textStyle="normal"
+            android:textSize="16sp"
+            android:enabled="false"
+            android:clickable="false"
+            />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
