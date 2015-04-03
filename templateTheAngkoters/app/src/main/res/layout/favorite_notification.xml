@@ -89,7 +89,6 @@
             android:textSize="16sp"
             android:enabled="false"
             android:clickable="false"
-            android:lines="1"
             />
 
             <Button
