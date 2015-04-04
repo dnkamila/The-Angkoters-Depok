@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-    <LinearLayout android:layout_width="340dp"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="56dp"
-        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
         android:background="#F5F5F5"
         android:elevation="2dp"
         android:orientation="vertical">
@@ -82,13 +77,13 @@
             android:id="@+id/btncancel"
             android:layout_width="170dp"
             android:layout_height="fill_parent"
-            android:layout_marginLeft="2dp"
             android:text="Cancel"
-            android:textColor="#757575"
+            android:textColor="#ffffff"
             android:textStyle="normal"
             android:textSize="16sp"
             android:enabled="false"
             android:clickable="false"
+            android:background="#EF5350"
             />
 
             <Button
@@ -96,15 +91,14 @@
             android:layout_width="170dp"
             android:layout_height="fill_parent"
             android:text="save"
-            android:textColor="#757575"
+            android:textColor="#ffffff"
             android:textStyle="normal"
             android:textSize="16sp"
             android:enabled="false"
             android:clickable="false"
+            android:background="@color/ColorPrimary"
             />
 
         </LinearLayout>
 
     </LinearLayout>
-
-</LinearLayout>

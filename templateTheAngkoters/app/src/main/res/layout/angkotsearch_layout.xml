@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="260dp" android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="64dp"
+    android:background="#E0E0E0"
+    android:elevation="4dp">
+
+    <LinearLayout
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="8dp">
+            <ImageView
+                android:layout_width="15sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_from_light"
+                android:layout_marginRight="4dp"/>
+
+            <TextView
+                android:id="@+id/fromLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:text="From :"
+                android:textColor="#455A64"
+                android:layout_gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/_start"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textAutoComplete"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="8dp">
+            <ImageView
+                android:layout_width="15sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_to_sign"
+                android:layout_marginRight="4dp"/>
+
+            <TextView
+                android:id="@+id/toLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:text="To      :"
+                android:textColor="#455A64"
+                android:layout_gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/_end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text" />
+        </LinearLayout>
+    </LinearLayout>
+        <ImageView
+            android:id="@+id/btn_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_switch_light"/>
+</LinearLayout>
